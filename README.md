@@ -33,11 +33,11 @@ Approximately **56.93%** of all coupons offered were accepted by drivers. Howeve
 
 ### Coffee House Coupons (Independent Investigation)
 
-- **Visit frequency** is the strongest predictor: frequent visitors (>1/month) accept at **65.90%** vs. **34.03%** for infrequent visitors.
-- **Morning coupons** (7AM–10AM) have a **53.64%** acceptance rate, vs. **46.31%** for afternoon/evening.
-- Drivers with **friends** accept at **59.74%** vs. **43.39%** for those driving alone.
-- **Longer expiration** (1 day) yields **58.06%** acceptance vs. **42.91%** for 2-hour coupons.
-- The **best-case profile** (frequent visitor, morning, no urgent destination) achieves an **81.09%** acceptance rate, while the **worst case** (infrequent, going to work) is just **29.69%**.
+- Frequent coffee house visitors (1-3+ times/month) accept coupons at a much higher rate than infrequent visitors, mirroring the pattern seen with bar coupons.
+- Morning (10AM) and afternoon (2PM) are peak acceptance times — coffee is a morning/afternoon habit, so coupons delivered at those times align with natural behavior.
+- Younger drivers (under 30) tend to have higher acceptance rates for coffee house coupons.
+- Drivers with "No Urgent Place" as their destination are much more likely to accept coffee house coupons compared to those heading to work or home. The lack of time pressure makes detours more appealing.
+- Coupons with a 1-day expiration window are accepted at higher rates than 2-hour coupons, giving drivers flexibility to use them later.
 
 ## Repository Structure
 
