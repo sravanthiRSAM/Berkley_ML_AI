@@ -24,14 +24,14 @@ There are five coupon types: Coffee House, Restaurant(<$20), Carry out & Take aw
 
 Approximately **56.93%** of all coupons offered were accepted by drivers. However, acceptance rates vary significantly by coupon type, with cheaper and more convenient options seeing the highest acceptance while bars and expensive restaurants see more rejection.
 
-### Bar Coupons (41.19% overall acceptance)
+### Bar Coupons Hypothesis
 
 - **Frequency of bar visits matters most**: Drivers who already visit bars more than 3 times a month are significantly more likely to accept bar coupons. This is the strongest indicator. Habitual bar-goers are naturally more receptive of the coupons.
 - **Age plays a role**: Younger drivers (under 30) and those over 25 who are frequent bar visitors both show higher acceptance rates. The combination of youth and existing bar-going behavior is a strong indicator..
 - **Passenger context matters**: Drivers without children as passengers are more likely to accept bar coupons, which makes sense taking kids to a bar is less practical.
 - **Economic factors**: Drivers who eat at cheap restaurants frequently and have lower incomes also show higher acceptance, suggesting price-conscious consumers who dine out often are open to bar coupon deals..
 
-### Coffee House Coupons (49.63% overall acceptance — Independent Investigation)
+### Coffee House Coupons (Independent Investigation)
 
 - **Visit frequency** is the strongest predictor: frequent visitors (>1/month) accept at **65.90%** vs. **34.03%** for infrequent visitors.
 - **Morning coupons** (7AM–10AM) have a **53.64%** acceptance rate, vs. **46.31%** for afternoon/evening.
