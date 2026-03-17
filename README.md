@@ -26,10 +26,10 @@ Approximately **56.93%** of all coupons offered were accepted by drivers. Howeve
 
 ### Bar Coupons (41.19% overall acceptance)
 
-- Drivers who visit bars **more than 3 times per month** accept bar coupons at **76.17%**, nearly double the **37.27%** rate of those who go 3 or fewer times.
-- Drivers who visit bars **more than once per month AND are over 25** accept at **68.98%** vs. **33.77%** for all others — a 35-percentage-point gap.
-- Drivers with **no kids as passengers** and **non-farming occupations** who visit bars more than once a month accept at **70.94%** vs. just **29.79%** for others.
-- **Younger drivers** (under 30) who frequently visit bars are the most receptive demographic.
+- **Frequency of bar visits matters most**: Drivers who already visit bars more than 3 times a month are significantly more likely to accept bar coupons. This is the strongest indicator. Habitual bar-goers are naturally more receptive of the coupons.
+- **Age plays a role**: Younger drivers (under 30) and those over 25 who are frequent bar visitors both show higher acceptance rates. The combination of youth and existing bar-going behavior is a strong indicator..
+- **Passenger context matters**: Drivers without children as passengers are more likely to accept bar coupons, which makes sense taking kids to a bar is less practical.
+- **Economic factors**: Drivers who eat at cheap restaurants frequently and have lower incomes also show higher acceptance, suggesting price-conscious consumers who dine out often are open to bar coupon deals..
 
 ### Coffee House Coupons (49.63% overall acceptance — Independent Investigation)
 
@@ -38,14 +38,6 @@ Approximately **56.93%** of all coupons offered were accepted by drivers. Howeve
 - Drivers with **friends** accept at **59.74%** vs. **43.39%** for those driving alone.
 - **Longer expiration** (1 day) yields **58.06%** acceptance vs. **42.91%** for 2-hour coupons.
 - The **best-case profile** (frequent visitor, morning, no urgent destination) achieves an **81.09%** acceptance rate, while the **worst case** (infrequent, going to work) is just **29.69%**.
-
-## Recommendations
-
-1. **Target existing customers**: Drivers who already frequent a business type are 2–3x more likely to accept coupons. Focus coupon delivery on known patrons.
-2. **Timing matters**: Deliver coffee house coupons in the morning, bar coupons in the evening. Match the coupon to the time when acceptance is naturally highest.
-3. **Consider the context**: Drivers heading to "no urgent place" are the most receptive. Avoid targeting drivers commuting to work with non-essential coupons.
-4. **Extend expiration windows**: 1-day expiration coupons consistently outperform 2-hour coupons across all types.
-5. **Demographic targeting**: Younger adults (21–30) without children in the car are the most coupon-receptive segment for both bars and coffee houses.
 
 ## Repository Structure
 
